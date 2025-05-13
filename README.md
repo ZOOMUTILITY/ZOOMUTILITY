@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="bn">
 <head>
+  <meta name="google-site-verification" content="8j0zgrTQhCXmb25saWfg0wM73uhdgaEvq0mJ3c4oGcU" />
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>নাম ও সংখ্যা তালিকা</title>
